@@ -58,10 +58,9 @@ Here you'll find my programming exercises, academic studies, experiments, and pe
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kesyalopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesyalopes&layout=compact&langs_count=8&theme=dracula" alt="Most used languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Kesyalopes&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kesyalopes&layout=compact&langs_count=8&theme=dracula" alt="Most Used Languages"/>
 </p>
-
 ---
 
 ## 🎯 Goals & Interests
