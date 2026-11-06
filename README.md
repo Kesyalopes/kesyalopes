@@ -8,9 +8,9 @@
 
 I'm currently pursuing three academic qualifications:
 
-- 🎓 **Control and Automation Engineering (Engenharia de Controle e Automação) — Federal University of Santa Catarina (UFSC), Brazil.
-- 💻 **Technical Course in Computer Science (Técnico em Informática) — Uninter, Brazil.
-- 🌐 **Technology Degree in Computer Networks (Tecnólogo em Redes de Computadores) — Uninter, Brazil.
+- 🎓 Control and Automation Engineering (Engenharia de Controle e Automação) — Federal University of Santa Catarina (UFSC), Brazil.
+- 💻 Technical Course in Computer Science (Técnico em Informática) — Uninter, Brazil.
+- 🌐 Technology Degree in Computer Networks (Tecnólogo em Redes de Computadores) — Uninter, Brazil.
 
 My academic interests include software development, computer networks, industrial automation, embedded systems, the Internet of Things (IoT), information security, and cybersecurity.
 
